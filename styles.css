@@ -1,0 +1,153 @@
+body{
+    background-color: rgba(12, 12, 12, 0.932);
+    color: rgb(234, 248, 248);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+nav{
+    background-color: rgb(12, 12, 12);
+    padding: 2%;
+    margin: -0.6%;
+    font-size: 125%;
+}
+.name{
+    text-align: left;
+    color: rgb(85, 83, 83);
+    font-size: 135%;
+}
+a.nl{
+    position: relative;
+    left: 40%;
+    text-decoration: none;
+    padding: 1%;
+    color: beige;
+}
+.start{
+   
+    font-size: 220%;
+}
+.nam{
+    color: rgb(218, 37, 37);
+    font-size: 300%;
+    padding-right:2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.role{
+    font-size: 220%;
+}
+.tech{
+    color: rgb(82, 79, 79);
+}
+.about,.In,.S{
+    font-size: 460%;
+    text-align: right;
+    padding-right:7%;
+    color: rgb(97, 92, 92);
+}
+.edu,.CERT,.Hobb{
+    font-size: 460%;
+    text-align: left;
+    padding-left: 7%;
+    color: rgb(97, 92, 92);
+}
+#Me,#ed,#ships{
+    font-size: 140%;
+    color: beige;
+    background-color:rgba(12, 12, 12, 0.664);
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+#sk{
+    background-color:rgba(12, 12, 12, 0.664); 
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 22%;
+}
+.tab{
+    font-size: 140%;
+    color: beige;
+    text-align: center;
+}
+#ho{
+    font-size: 140%;
+    color: beige;
+    background-color:rgba(12, 12, 12, 0.664);
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.lik{
+padding-left: 47%;
+}
+#c{
+    font-size: 140%;
+    color: beige;
+    background-color:rgba(12, 12, 12, 0.664);
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;  
+}
+hr{
+background-color: rgba(12, 12, 12, 0.932);
+border-style: none;
+border-top-style: dotted;
+border-color: lightgray;
+border-width: 5px;
+width: 10%;
+}
+.contact{
+    color:rgb(218, 37, 37);
+    font-size: 300%;
+    text-decoration: underline;
+    text-align: center;
+}
+form{
+    background-color:rgba(12, 12, 12, 0.932) ;
+    color: rgba(180, 252, 228, 0.459);
+    font-size: 130%;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+a.cl{
+    text-decoration: none;
+    color: beige;
+}
+.il{
+    color:rgb(218, 37, 37) ;
+    text-decoration:none ;
+}
+footer{
+    margin-left:-0.6%;
+    margin-right: -0.6%;
+    margin-bottom: -0.6%;
+    margin-top: 2%;
+    background-color: black;
+    color: bisque;
+    padding-left: 8%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 100%;
+}
+.li{
+    text-align: center;
+    font-size: 70%;
+    color: rgb(116, 113, 113);
+}
